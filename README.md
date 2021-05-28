@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Nelson Mosquera 👋
+ I'm a student of systems engineering @ Pontificia Universidad Javeriana and a passionate self-taught frontEnd web developer.
 
-<!--
-**monotera/monotera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [PhoenixWear website](https://github.com/FundIngSoft2021-10/phoenixWear)
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything [here](https://github.com/monotera/monotera/issues)
 
-Here are some ideas to get you started:
+Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://github.com/monotera/monotera/blob/master/assets/c%2B%2B.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://github.com/monotera/monotera/blob/master/assets/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monotera&langs_count=8&layout=compact&theme=cobalt" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=monotera&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=cobalt" alt="Monotera's github stats" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monotera&theme=blood-dark)](https://git.io/streak-stats)
