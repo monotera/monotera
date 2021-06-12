@@ -2,7 +2,7 @@
  I'm a student of systems engineering @ Pontificia Universidad Javeriana and a passionate self-taught frontEnd web developer.
 
 - 🔭 I’m currently working on [PhoenixWear website](https://github.com/FundIngSoft2021-10/phoenixWear)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning [React](https://github.com/monotera/ProWeb/tree/master/Front-end/react)
 - 💬 Ask me about anything [here](https://github.com/monotera/monotera/issues)
 
 Languages and Tools:
