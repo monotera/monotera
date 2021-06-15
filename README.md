@@ -18,3 +18,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monotera&langs_count=8&layout=compact&theme=cobalt" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=monotera&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=cobalt" alt="Monotera's github stats" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monotera&theme=tokyonight)](https://git.io/streak-stats)
