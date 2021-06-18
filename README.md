@@ -1,4 +1,4 @@
-### Hi there, I'm Nelson Mosquera 👋
+## Hi there, I'm Nelson Mosquera 👋
  I'm a student of systems engineering @ Pontificia Universidad Javeriana and a passionate self-taught frontEnd web developer.
 
 - 🔭 I’m currently working on [PhoenixWear website](https://github.com/FundIngSoft2021-10/phoenixWear)
