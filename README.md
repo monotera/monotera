@@ -1,8 +1,8 @@
 ## Hi there, I'm Nelson Mosquera 👋
  I'm a student of systems engineering @ Pontificia Universidad Javeriana and a passionate self-taught frontEnd web developer.
 
-- 🔭 I’m currently working on [NetParking app](https://github.com/PUJ-Computacion-movil-5707/Netparking) and [SporEcomerce](https://github.com/monotera/SporEcomerce)
-- 🌱 I’m currently learning [React, Springboot and Android studio](https://github.com/monotera/ProWeb)
+- 🔭 I’m currently working on [Lineup's](monotera/PHP-learning) backend
+- 🌱 I’m currently learning [AI, LLM, Webscraping](https://github.com/monotera/ProWeb)
 - 💬 Ask me about anything [here](https://github.com/monotera/monotera/issues)
 
 Favorite languages and Tools:
