@@ -1,7 +1,7 @@
 ## Hi there, I'm Nelson Mosquera 👋
  I'm a student of systems engineering @ Pontificia Universidad Javeriana and a passionate self-taught frontEnd web developer.
 
-- 🔭 I’m currently working on [Lineup's](monotera/PHP-learning) backend
+- 🔭 I’m currently working on [Lineup's](https://meetlineup.com/) backend
 - 🌱 I’m currently learning [AI, LLM, Webscraping](https://github.com/monotera/ProWeb)
 - 💬 Ask me about anything [here](https://github.com/monotera/monotera/issues)
 
